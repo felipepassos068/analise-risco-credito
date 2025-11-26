@@ -22,7 +22,7 @@ SELECT
     CASE WHEN possui_imovel = 'SIM' THEN 1 ELSE 0 END AS flag_possui_imovel,
     CASE WHEN possui_veiculo = 'SIM' THEN 1 ELSE 0 END AS flag_possui_veiculo,
     
-    -- 5. Variável Alvo (Target)
+    
     CASE WHEN inadimplente = 'SIM' THEN 1 ELSE 0 END AS alvo_inadimplente
     
 FROM
