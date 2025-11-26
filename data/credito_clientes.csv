@@ -1,0 +1,51 @@
+id_cliente,id_emprestimo,nome_cliente,email_cliente,data_nascimento,genero,estado_civil,cidade,estado,renda_mensal,possui_imovel,possui_veiculo,motivo_emprestimo,valor_emprestimo,prazo_meses,atrasos_pagamento_hist,notas_ultimas_consultas_cpf,data_solicitacao,inadimplente
+101,5001,João Silva,joao.silva@email.com,1985-03-15,M,Casado(a),São Paulo,SP,5500,SIM,SIM,Reforma,20000,36,0,"Análise de crédito OK",2025-01-20,NAO
+102,5002,Maria Oliveira,maria.o@email.com,1992-07-22,F,Solteiro(a),Rio de Janeiro,RJ,3200,NAO,SIM,Pagar Dívidas,8000,24,2,"Cliente com histórico",2025-01-22,SIM
+103,5003,Carlos Pereira,c.pereira@email.com,1978-11-02,M,Casado(a),Belo Horizonte,MG,8900,SIM,SIM,Investimento,50000,48,0,"Sem restrições",2025-02-01,NAO
+104,5004,Ana Costa,ana.costa@email.com,2000-01-30,F,Solteiro(a),Salvador,BA,2500,NAO,NAO,Educação,5000,12,1,"Score baixo",2025-02-05,SIM
+105,5005,Pedro Martins,pedro.m@email.com,1988-06-10,M,Divorciado(a),Curitiba,PR,6100,SIM,NAO,Viagem,15000,24,0,"",2025-02-10,NAO
+106,5006,Juliana Santos,j.santos@email.com,1995-09-18,F,Solteiro(a),Porto Alegre,RS,4100,NAO,SIM,Carro Novo,25000,36,3,"Múltiplas consultas recentes",2025-02-11,SIM
+107,5007,Lucas Souza,lucas.souza@email.com,1982-04-25,M,Casado(a),Fortaleza,CE,7500,SIM,SIM,Reforma,30000,48,0,"OK",2025-02-15,NAO
+108,5008,Camila Lima,camila.lima@email.com,1999-03-12,F,Solteiro(a),Brasília,DF,3800,NAO,NAO,Pagar Dívidas,10000,24,1,"",2025-02-20,NAO
+109,5009,Fernando Alves,f.alves@email.com,1975-08-01,M,Viúvo(a),Recife,PE,4500,SIM,NAO,Saúde,12000,36,4,"Cliente negativado",2025-03-01,SIM
+110,5010,Beatriz Azevedo,b.azevedo@email.com,1990-12-05,F,Casado(a),Manaus,AM,6800,SIM,SIM,Viagem,20000,24,0,"",2025-03-03,NAO
+111,5011,Rafael Barbosa,rafa.b@email.com,1986-10-14,M,Solteiro(a),Goiânia,GO,5200,SIM,NAO,Investimento,18000,36,1,"",2025-03-05,NAO
+112,5012,Larissa Gomes,lari.gomes@email.com,1998-02-20,F,Solteiro(a),São Luís,MA,2900,NAO,SIM,Pagar Dívidas,7000,12,3,"",2025-03-10,SIM
+113,5013,Tiago Ribeiro,t.ribeiro@email.com,1980-07-07,M,Casado(a),Belém,PA,9500,SIM,SIM,Reforma,60000,60,0,"Excelente pagador",2025-03-12,NAO
+114,5014,Sandra Ferreira,sandra.f@email.com,1993-05-16,F,Divorciado(a),Maceió,AL,3400,NAO,NAO,Educação,6000,24,2,"",2025-03-15,SIM
+115,5015,Rodrigo Carvalho,r.carvalho@email.com,1989-09-03,M,Solteiro(a),Campo Grande,MS,4800,SIM,SIM,Carro Novo,35000,48,0,"",2025-03-20,NAO
+116,5016,Vanessa Castro,v.castro@email.com,1996-11-28,F,Solteiro(a),João Pessoa,PB,3100,NAO,SIM,Pagar Dívidas,9000,36,1,"",2025-04-01,NAO
+117,5017,Márcio Mendes,marcio.m@email.com,1979-01-19,M,Casado(a),Aracaju,SE,10500,SIM,SIM,Investimento,70000,60,0,"",2025-04-02,NAO
+118,5018,Patrícia Barros,paty.barros@email.com,1991-08-08,F,Casado(a),Teresina,PI,4200,NAO,NAO,Viagem,10000,12,4,"",2025-04-05,SIM
+119,5019,Gustavo Rocha,g.rocha@email.com,1984-06-21,M,Solteiro(a),Cuiabá,MT,5900,SIM,SIM,Reforma,22000,36,0,"",2025-04-10,NAO
+120,5020,Aline Pinto,aline.pinto@email.com,1997-04-04,F,Solteiro(a),Florianópolis,SC,3600,NAO,SIM,Carro Novo,28000,48,2,"",2025-04-12,SIM
+121,5021,André Justo,andre.j@email.com,1983-02-11,M,Divorciado(a),Porto Velho,RO,6200,NAO,NAO,Pagar Dívidas,15000,24,0,"",2025-04-15,NAO
+122,5022,Cláudia Melo,claudia.melo@email.com,1994-01-09,F,Casado(a),Macapá,AP,4000,SIM,SIM,Educação,12000,36,3,"",2025-04-20,SIM
+123,5023,Daniel Moraes,d.moraes@email.com,1977-10-30,M,Casado(a),Rio Branco,AC,12000,SIM,SIM,Investimento,80000,60,0,"",2025-04-22,NAO
+124,5024,Elaine Jesus,elaine.j@email.com,1999-06-15,F,Solteiro(a),Boa Vista,RR,2800,NAO,NAO,Viagem,5000,12,1,"",2025-05-01,NAO
+125,5025,Fábio Nogueira,fabio.n@email.com,1987-03-02,M,Solteiro(a),Palmas,TO,5300,SIM,NAO,Reforma,17000,24,0,"",2025-05-03,NAO
+126,5026,Helena Dias,helena.d@email.com,2001-05-25,F,Solteiro(a),Vitória,ES,2600,NAO,SIM,Pagar Dívidas,4000,12,2,"",2025-05-05,SIM
+127,5027,Igor Santos,igor.s@email.com,1981-11-11,M,Casado(a),Natal,RN,8000,SIM,SIM,Carro Novo,40000,48,0,"",2025-05-10,NAO
+128,5028,Jéssica Andrade,jessica.a@email.com,1992-09-09,F,Casado(a),Uberlândia,MG,4600,NAO,SIM,Reforma,13000,36,3,"",2025-05-12,SIM
+129,5029,Kleber Ramos,kleber.r@email.com,1976-08-17,M,Viúvo(a),Ribeirão Preto,SP,5000,SIM,NAO,Saúde,20000,24,0,"",2025-05-15,NAO
+130,5030,Laura Barros,laura.b@email.com,1995-07-27,F,Solteiro(a),Sorocaba,SP,3300,NAO,NAO,Pagar Dívidas,8000,24,1,"",2025-05-20,NAO
+131,5031,Marcelo Cunha,marcelo.c@email.com,1985-04-14,M,Divorciado(a),Joinville,SC,6500,SIM,SIM,Investimento,30000,36,0,"",2025-06-01,NAO
+132,5032,Natália Freitas,natalia.f@email.com,2002-02-02,F,Solteiro(a),Blumenau,SC,2400,NAO,NAO,Educação,3000,12,4,"",2025-06-03,SIM
+133,5033,Otávio Costa,otavio.c@email.com,1980-01-23,M,Casado(a),Londrina,PR,8500,SIM,SIM,Reforma,55000,48,0,"",2025-06-05,NAO
+134,5034,Paula Dias,paula.d@email.com,1993-10-10,F,Solteiro(a),Maringá,PR,3700,NAO,SIM,Viagem,11000,24,2,"",2025-06-10,SIM
+135,5035,Quintino Rocha,quintino.r@email.com,1974-12-12,M,Casado(a),Caxias do Sul,RS,7200,SIM,SIM,Carro Novo,45000,60,0,"",2025-06-12,NAO
+136,5036,Rita Lima,rita.lima@email.com,1997-09-01,F,Casado(a),Pelotas,RS,3900,NAO,NAO,Pagar Dívidas,10000,36,3,"",2025-06-15,SIM
+137,5037,Sérgio Reis,sergio.reis@email.com,1986-05-05,M,Solteiro(a),Niterói,RJ,5800,SIM,SIM,Investimento,25000,36,0,"",2025-06-20,NAO
+138,5038,Tatiane Vaz,tatiane.v@email.com,1990-03-08,F,Solteiro(a),Campos dos Goytacazes,RJ,4300,NAO,SIM,Reforma,14000,24,1,"",2025-06-22,NAO
+139,5039,Ulisses Mota,ulisses.m@email.com,1973-02-18,M,Divorciado(a),Santos,SP,6000,SIM,NAO,Saúde,18000,24,5,"",2025-07-01,SIM
+140,5040,Valéria Nunes,valeria.n@email.com,1988-08-30,F,Casado(a),Campinas,SP,7100,SIM,SIM,Viagem,33000,48,0,"",2025-07-03,NAO
+141,5041,Wagner Teles,wagner.t@email.com,1996-06-06,M,Solteiro(a),Osasco,SP,4700,NAO,SIM,Carro Novo,30000,36,2,"",2025-07-05,SIM
+142,5042,Xuxa Meneghel,xuxa.m@email.com,1963-03-27,F,Solteiro(a),Rio de Janeiro,RJ,15000,SIM,SIM,Investimento,100000,60,0,"",2025-07-10,NAO
+143,5043,Yasmin Brunet,yasmin.b@email.com,1988-06-06,F,Solteiro(a),Rio de Janeiro,RJ,9500,SIM,NAO,Reforma,40000,24,0,"",2025-07-12,NAO
+144,5044,Zeca Pagodinho,zeca.p@email.com,1959-02-04,M,Casado(a),Rio de Janeiro,RJ,11000,SIM,SIM,Viagem,60000,36,1,"",2025-07-15,NAO
+145,5045,Abel Ferreira,abel.f@email.com,1978-12-22,M,Casado(a),São Paulo,SP,12000,SIM,SIM,Investimento,90000,48,0,"",2025-07-20,NAO
+146,5046,Bia Haddad,bia.h@email.com,1996-05-30,F,Solteiro(a),São Paulo,SP,8000,NAO,SIM,Carro Novo,50000,36,0,"",2025-08-01,NAO
+147,5047,Caio Castro,caio.c@email.com,1989-01-22,M,Solteiro(a),São Paulo,SP,7500,SIM,NAO,Reforma,25000,24,1,"",2025-08-05,NAO
+148,5048,Debora Secco,debora.s@email.com,1979-11-26,F,Casado(a),Rio de Janeiro,RJ,8500,SIM,SIM,Viagem,45000,36,2,"",2025-08-10,SIM
+149,5049,Eder Militão,eder.m@email.com,1998-01-18,M,Solteiro(a),São Paulo,SP,10000,SIM,SIM,Investimento,75000,60,0,"",2025-08-15,NAO
+150,5050,Fernanda Montenegro,fernanda.m@email.com,1929-10-16,F,Viúvo(a),Rio de Janeiro,RJ,15000,SIM,SIM,Saúde,50000,24,0,"",2025-08-20,NAO
